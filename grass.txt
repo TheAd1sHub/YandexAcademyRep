@@ -1,0 +1,5 @@
+Hello, world!
+This grass is so precious!
+Gonna 'touch' it!
+
+This line was added later, so the file will not be tracked it git anymore until you add it with 'git add', lol
